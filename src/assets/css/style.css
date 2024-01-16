@@ -1,0 +1,166 @@
+body
+{
+    margin: 0;
+}
+.nav_tag
+{
+    background-color:  firebrick;
+}
+.nav_log
+{
+    width: 10%;
+}
+
+.nav_container {
+    display: flex;
+    padding: 15px;
+}
+
+
+ul.nav_ul {
+    list-style: none;
+    display: flex;
+    margin-left: auto;
+    color: white;
+}
+
+.nav_li {
+    margin: 20px;
+}
+
+a.nav_a {
+    color: white;
+}
+
+.bottoming {
+    height: 700px;
+    width: 100%;
+}
+
+.logo{
+    width: 10%;
+    
+}
+
+section {
+    text-align: center;
+}
+
+
+
+.container {
+    padding: 20px;
+    
+}
+
+.abouting{
+    height: 170px;
+    width: 170px;
+}
+
+.about{
+    margin-top: 20px;
+    margin-left: 100px;
+    text-align: justify;
+}
+
+.heading{
+    margin-left: 100px;
+}
+
+.protect-container{
+    border: 5px solid rgb(73, 0, 0);
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
+    
+
+
+}
+.product-name{
+    font-weight:bold;
+    text-align: center;
+}
+.price{
+    font-weight: bold;
+    color: green;
+}
+
+.banner{
+    height: 200px;
+    width: 1500px;
+}
+
+.productinfo{
+    background-color: rgb(249, 242, 227);
+    padding-top: 10px;
+}
+
+.containerfounder{
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.founder{
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+}
+
+.back{
+    background-color: rgb(249, 242, 227);
+}
+
+.footer{
+    background-color: black;
+    padding: 10px;
+    min-height: 25%;
+}
+
+.footer-h{
+    text-align: center;
+    color: rgb(255, 112, 112);
+}
+.footer-about{
+    padding: 10px;
+    min-height: 25%;
+}
+.footer-link{
+    padding: 10px;
+    min-height: 25%;
+}
+.footer-contacts{
+    color: white;
+    padding: 10px;
+    min-height: 25%;
+}
+
+.unorder{
+    list-style: none;
+}
+
+.side-p{
+    margin-top: 16px;
+}
+
+.list {
+    margin-right: 40px;
+    margin-top: 16px;
+}
+
+.footer-pa{
+    margin-top: 16px;
+    color: white;
+    text-align: justify;
+}
+
+.foot-logo{
+    width: 80px;
+    height: 80px;
+  
+}
+
+.bg-light {
+    background-color: #5677a4;
+}
